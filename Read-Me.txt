@@ -1,0 +1,81 @@
+English/Français
+
+[English]
+----------
+
+A little history
+================
+
+McDonnell-Douglas T45 Goshawk
+=============================
+
+Manufacturer                  : McDonnell Douglas / BAe Hawk / BAE Systems
+Type                          :
+Year                          :
+Powerplant                    :
+Wingspan                      :
+Length                        :
+Height                        :
+weight                        :
+Cruise speed                  :
+Range                         :
+Crew                          :
+
+Some useful keys:
+=================
+
+Thanks
+======
+
+===============
+BARANGER Emmanuel
+September, 05, 2022
+May,       15, 2023
+January,   15, 2024
+June,      10, 2024
+March,     12, 2025
+
+http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
+embaranger@gmail.com
+
+
+[Français]
+----------
+
+Un peu d'histoire
+=================
+
+McDonnell-Douglas T45 Goshawk
+=============================
+
+Constructeur                  : McDonnell Douglas / BAe Hawk / BAE Systems
+Type                          :
+Année                         :
+Moteur                        :
+Envergure                     :
+Longueur                      :
+Hauteur                       :
+Poids estimé au décollage     :
+Vitesse estimée de croisière  :
+Autonomie estimée             :
+Equipage                      :
+
+
+Quelques touches utiles :
+=========================
+
+Remerciements
+=============
+
+===============
+BARANGER Emmanuel
+05 Septembre 2022
+15 Mai       2023
+15 Janvier   2024
+10 Juin      2024
+12 Mars      2025
+
+http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
+embaranger@gmail.com

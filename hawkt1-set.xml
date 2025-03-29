@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList   include="Systems/hawkt1-base.xml">
+
+  <sim>
+
+    <description>BAe Hawk T1</description>
+    <author>BARANGER Emmanuel (3D/FDM), OrbitalMartian (HawkT1 conversion)</author>
+
+    <aircraft-version>0.6</aircraft-version>
+    <status>Alpha</status>
+    <minimum-fg-version>2018.2.0</minimum-fg-version>
+
+    <flight-model>yasim</flight-model>
+    <aero>Systems/hawkt1-yasim</aero>
+
+    <rating>
+      <FDM      type="int"> 3 </FDM>
+      <systems  type="int"> 3 </systems>
+      <cockpit  type="int"> 3 </cockpit>
+      <model    type="int"> 4 </model>
+    </rating>
+
+    <previews>
+      <preview>
+        <type>interior</type>
+        <splash type="bool">true</splash>
+        <path>Previews/t45-0.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>Previews/t45-1.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>Previews/t45-2.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>Previews/t45-3.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>Previews/t45-4.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>Previews/t45-5.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>Previews/t45-6.png</path>
+      </preview>
+    </previews>
+
+    <tags>
+      <tag>jet</tag>
+      <tag>trainer</tag>
+      <tag>aerobatic</tag>
+    </tags>
+
+  </sim>
+
+</PropertyList>
