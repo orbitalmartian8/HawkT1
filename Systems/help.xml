@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <title>McDonnell-Douglas T45 Goshawk</title>
+  <line>______________________________________________</line>
+  <key>
+    <name>}</name>
+    <desc>AutoStart/AutoStop</desc>
+  </key>
+  <key>
+    <name>d</name>
+    <desc>Open/Close canopy</desc>
+  </key>
+  <key>
+    <name>l</name>
+    <desc>Landing lights On/Off</desc>
+  </key>
+  <key>
+    <name>Shift+c (C)</name>
+    <desc>Catapult Launch Command.</desc>
+  </key>
+  <key>
+    <name>Shift+l (L)</name>
+    <desc>Launch-bar engage.</desc>
+  </key>
+  <key>
+    <name>Shift+o (O)</name>
+    <desc>Hook down</desc>
+  </key>
+  <key>
+    <name>o</name>
+    <desc>Hook Up</desc>
+  </key>
+
+</PropertyList>

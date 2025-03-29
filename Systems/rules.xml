@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+  <!--
+  <autopilot n="0">
+    <path>Aircraft/McDonnell-Douglas-T-45-Goshawk/Systems/t45-autopilot.xml</path>
+  </autopilot>
+  -->
+  <autopilot n="100">
+    <path>Aircraft/McDonnell-Douglas-T-45-Goshawk/Systems/glass-rain.xml</path>
+  </autopilot>
+
+  <property-rule n="100">
+    <path>Aircraft/McDonnell-Douglas-T-45-Goshawk/Models/Interior/Panel/Instruments/mfd/filter.xml</path>
+  </property-rule>
+
+</PropertyList>

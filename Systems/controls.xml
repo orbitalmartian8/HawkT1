@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <lighting>
+    <instruments-norm>0.8</instruments-norm>
+    <landing-lights       type="bool">false</landing-lights>
+    <beacon               type="bool">false</beacon>
+    <strobe               type="bool">false</strobe>
+    <nav-lights           type="bool">false</nav-lights>
+    <cabin-lights         type="bool">false</cabin-lights>
+    <wing-lights          type="bool">false</wing-lights>
+    <taxi-light           type="bool">false</taxi-light>
+  </lighting>
+
+  <electric>
+    <battery-switch       type="bool">false</battery-switch>
+    <generator>0</generator>
+    <engines>
+      <engine n="0">
+        <fuel-pump>0</fuel-pump>
+      </engine>
+    </engines>
+  </electric>
+
+  <engines>
+    <engine n="0">
+      <on                 type="bool">false</on>
+      <magnetos>0</magnetos>
+      <throttle           type="double">0</throttle>
+      <condition>0</condition>
+      <condition-lever>0</condition-lever>
+      <cutoff             type="bool">true</cutoff>
+    </engine>
+  </engines>
+
+  <switches>
+    <master-avionics      type="bool">true</master-avionics>
+    <jettinson-button     type="bool">false</jettinson-button>
+    <!-- ' jet power on switches  -->
+    <battery-switch       type="bool">false</battery-switch>
+    <transformator-switch type="bool">false</transformator-switch>
+    <ALT1-switch          type="bool">false</ALT1-switch>
+    <ALT2-switch          type="bool">false</ALT2-switch>
+    <hide-cutoff          type="bool">true</hide-cutoff>
+    <cutoff               type="bool">true</cutoff>
+    <pump-BP              type="bool">false</pump-BP>
+    <pump-BPG             type="bool">false</pump-BPG>
+    <pump-BPD             type="bool">false</pump-BPD>
+    <vent-allumage        type="bool">false</vent-allumage>
+    <hide-starter         type="bool">false</hide-starter>
+    <starter              type="bool">false</starter>
+    <transponder          type="bool">true</transponder>
+  </switches>
+
+  <gear>
+    <brake-parking        type="bool">true</brake-parking>
+    <tailwheel-lock       type="bool">true</tailwheel-lock>
+  </gear>
+
+  <flight>
+    <rudder-trim>   0.00 </rudder-trim>
+    <aileron-trim>  0.00 </aileron-trim>
+    <elevator-trim> 0.05 </elevator-trim>
+  </flight>
+
+</PropertyList>

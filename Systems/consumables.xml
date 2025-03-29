@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <fuel>
+    <!--  1580 lb left wing      = 235.1 GAL us -->
+    <tank n="0">
+      <tank-num type="int">0</tank-num>
+      <level-gal_us archive="y">235.1</level-gal_us>
+    </tank>
+    <!--  2893 lb center fuselage = 430.5 GAL us -->
+    <tank n="1">
+      <tank-num type="int">1</tank-num>
+      <level-gal_us archive="y">430.5</level-gal_us>
+    </tank>
+    <!--  1580 lb right wing      = 235.1 GAL us -->
+    <tank n="2">
+      <tank-num type="int">2</tank-num>
+      <level-gal_us archive="y">235.1</level-gal_us>
+    </tank>
+  </fuel>
+
+</PropertyList>
